@@ -1,0 +1,521 @@
+Order ID,Product Name,Category,Brand,Price,Discount,Rating,Reviews Count,Seller,Stock Status,Delivery Days,Order Date
+10001,Smart Watch,Electronics ,Apple,,5.0,2.0,500,Cloudtail ,Out of Stock,1.0,2023-05-13
+10002,Bluetooth Speaker,Gadgets,Samsung,9999.0,10.0,1.0,1000,Cloudtail ,In Stock,5.0,2023-12-09
+10003,Headphones,Gadgets,Mi,,15.0,1.0,50,RetailNet,In stock,5.0,2023-02-28
+10004,Bluetooth Speaker,Electronics,OnePlus,,10.0,3.0,50,Cloudtail ,In stock,3.0,2023-12-11
+10005,Bluetooth Speaker,Electronics ,Apple,24999.0,10.0,,100,RetailNet,In Stock,5.0,2023-07-01
+10006,Laptop,Electronics,Samsung,9999.0,10.0,4.0,500,RetailNet,In stock,3.0,2023-12-05
+10007,Headphones,electronics,Boat,24999.0,5.0,2.0,10,RetailNet,out of stock,2.0,2023-11-17
+10008,Headphones,electronics,Mi,9999.0,10.0,1.0,500,Cloudtail,out of stock,,2023-03-05
+10009,Headphones,Electronics,Apple,14999.0,5.0,2.0,500,Cloudtail ,Out of Stock,2.0,2023-11-23
+10010,Bluetooth Speaker,Gadgets,Apple,9999.0,20.0,,10,Appario,Out of Stock,3.0,2023-09-17
+10011,Smart Watch,Gadgets,OnePlus,24999.0,15.0,4.0,100,Appario,In Stock,3.0,2023-07-12
+10012,Headphones,Electronics,OnePlus,,5.0,,500,Cloudtail ,Out of Stock,2.0,2023-05-23
+10013,Bluetooth Speaker,Electronics,Boat,9999.0,20.0,4.0,50,RetailNet,out of stock,1.0,2023-04-14
+10014,Laptop,electronics,Boat,9999.0,5.0,5.0,10,Appario,In Stock,1.0,2023-08-02
+10015,Smart Watch,Gadgets,Samsung,19999.0,5.0,4.0,1000,Appario,In Stock,1.0,2023-08-30
+10016,Laptop,Electronics,Samsung,,15.0,3.0,100,Cloudtail ,Out of Stock,3.0,2023-07-28
+10017,Smart Watch,electronics,Boat,14999.0,,,10,Appario,out of stock,5.0,2023-04-03
+10018,Bluetooth Speaker,Gadgets,Boat,24999.0,,1.0,1000,RetailNet,In Stock,3.0,2023-05-22
+10019,Mobile Phone,Electronics ,Mi,14999.0,5.0,5.0,1000,Cloudtail ,out of stock,5.0,2023-04-22
+10020,Smart Watch,electronics,OnePlus,,10.0,3.0,500,RetailNet,out of stock,2.0,2023-02-28
+10021,Laptop,Gadgets,Samsung,9999.0,20.0,2.0,500,Appario,out of stock,,2023-02-12
+10022,Bluetooth Speaker,Gadgets,OnePlus,9999.0,10.0,,500,Appario,Out of Stock,5.0,2023-07-26
+10023,Smart Watch,electronics,OnePlus,,10.0,1.0,10,RetailNet,In stock,1.0,2023-09-25
+10024,Mobile Phone,Electronics ,Boat,9999.0,5.0,4.0,10,Cloudtail,In stock,3.0,2023-10-23
+10025,Mobile Phone,electronics,Mi,9999.0,5.0,1.0,100,Appario,In Stock,2.0,2023-04-28
+10026,Headphones,Gadgets,Apple,9999.0,5.0,2.0,500,Cloudtail,out of stock,1.0,2023-01-20
+10027,Headphones,Electronics,Mi,24999.0,5.0,5.0,1000,Appario,Out of Stock,2.0,2023-08-10
+10028,Laptop,Electronics,Mi,24999.0,,5.0,50,Cloudtail,out of stock,,2023-06-15
+10029,Smart Watch,electronics,OnePlus,19999.0,5.0,,100,Cloudtail,out of stock,3.0,2023-05-11
+10030,Smart Watch,Gadgets,Mi,14999.0,,5.0,10,Cloudtail,Out of Stock,3.0,2023-06-05
+10031,Headphones,Electronics,Samsung,,,,100,RetailNet,In stock,,2023-07-03
+10032,Smart Watch,Gadgets,OnePlus,,5.0,,100,Cloudtail,out of stock,3.0,2023-03-31
+10033,Smart Watch,electronics,Samsung,,15.0,,100,Cloudtail,out of stock,5.0,2023-04-04
+10034,Mobile Phone,Electronics,Apple,19999.0,20.0,4.0,100,Cloudtail,In stock,2.0,2023-01-13
+10035,Headphones,Gadgets,OnePlus,24999.0,10.0,3.0,50,Appario,Out of Stock,1.0,2023-11-18
+10036,Bluetooth Speaker,Electronics,Apple,19999.0,,,500,Cloudtail,In Stock,,2023-10-20
+10037,Headphones,electronics,OnePlus,,20.0,,1000,Appario,In stock,5.0,2023-08-18
+10038,Bluetooth Speaker,Gadgets,Boat,14999.0,15.0,3.0,100,Cloudtail,In Stock,1.0,2023-11-18
+10039,Mobile Phone,Electronics,Mi,9999.0,10.0,1.0,100,Cloudtail,In Stock,1.0,2023-10-19
+10040,Laptop,electronics,Boat,24999.0,10.0,,100,RetailNet,In stock,,2023-01-26
+10041,Smart Watch,Electronics,Apple,24999.0,,4.0,500,Appario,out of stock,5.0,2023-03-16
+10042,Mobile Phone,Electronics,Mi,19999.0,5.0,5.0,10,Cloudtail,In Stock,1.0,2023-12-30
+10043,Smart Watch,Electronics ,OnePlus,24999.0,15.0,5.0,10,Appario,In Stock,1.0,2023-10-26
+10044,Laptop,Electronics ,Mi,,,2.0,50,Appario,Out of Stock,5.0,2023-05-30
+10045,Laptop,electronics,Samsung,,15.0,2.0,10,Cloudtail ,out of stock,3.0,2023-05-28
+10046,Mobile Phone,Electronics ,Mi,19999.0,5.0,5.0,100,RetailNet,In Stock,1.0,2023-01-08
+10047,Laptop,electronics,Samsung,,5.0,5.0,100,RetailNet,Out of Stock,2.0,2023-01-29
+10048,Bluetooth Speaker,Electronics ,Mi,14999.0,,4.0,100,RetailNet,out of stock,5.0,2023-10-23
+10049,Laptop,Electronics,Samsung,19999.0,5.0,3.0,50,Cloudtail ,In stock,1.0,2023-07-28
+10050,Smart Watch,electronics,Apple,14999.0,20.0,2.0,100,Cloudtail ,In stock,,2023-05-08
+10051,Smart Watch,electronics,Boat,9999.0,10.0,3.0,10,RetailNet,Out of Stock,2.0,2023-12-06
+10052,Smart Watch,Electronics,OnePlus,14999.0,,4.0,500,Cloudtail ,In stock,1.0,2023-04-26
+10053,Smart Watch,electronics,Mi,9999.0,15.0,5.0,500,Cloudtail ,In Stock,2.0,2023-05-24
+10054,Bluetooth Speaker,electronics,Boat,9999.0,20.0,,1000,Cloudtail ,out of stock,2.0,2023-11-14
+10055,Headphones,Electronics ,OnePlus,14999.0,,3.0,10,RetailNet,In Stock,3.0,2023-08-23
+10056,Mobile Phone,electronics,OnePlus,19999.0,5.0,5.0,100,RetailNet,In Stock,2.0,2023-01-07
+10057,Smart Watch,Gadgets,Samsung,,5.0,5.0,500,RetailNet,In stock,3.0,2023-02-14
+10058,Laptop,Electronics,Apple,,5.0,1.0,10,Cloudtail ,In Stock,5.0,2023-08-27
+10059,Smart Watch,Electronics ,Apple,9999.0,5.0,3.0,500,RetailNet,In stock,3.0,2023-06-04
+10060,Laptop,Electronics ,Boat,9999.0,15.0,,100,Cloudtail ,out of stock,,2023-06-30
+10061,Laptop,Gadgets,Apple,19999.0,20.0,3.0,500,Cloudtail,out of stock,1.0,2023-08-03
+10062,Smart Watch,Electronics,Mi,24999.0,10.0,5.0,1000,Cloudtail ,In Stock,5.0,2023-03-29
+10063,Bluetooth Speaker,Electronics,Apple,14999.0,15.0,,1000,Appario,Out of Stock,5.0,2023-09-13
+10064,Laptop,Electronics ,Boat,9999.0,15.0,4.0,500,RetailNet,In stock,,2023-03-14
+10065,Laptop,electronics,Apple,,10.0,1.0,10,RetailNet,In stock,3.0,2023-06-28
+10066,Smart Watch,Electronics ,Mi,19999.0,10.0,5.0,10,Appario,In Stock,1.0,2023-07-31
+10067,Laptop,Electronics,Samsung,14999.0,5.0,2.0,10,Cloudtail ,In stock,3.0,2023-10-20
+10068,Laptop,Gadgets,Boat,19999.0,15.0,2.0,500,Cloudtail,In stock,2.0,2023-08-22
+10069,Smart Watch,Electronics ,Samsung,14999.0,,1.0,10,Appario,Out of Stock,3.0,2023-08-27
+10070,Smart Watch,Electronics,Samsung,14999.0,10.0,4.0,100,Appario,Out of Stock,5.0,2023-08-11
+10071,Mobile Phone,Electronics ,Samsung,9999.0,10.0,5.0,1000,Cloudtail ,In Stock,1.0,2023-04-29
+10072,Bluetooth Speaker,electronics,OnePlus,19999.0,20.0,3.0,100,RetailNet,Out of Stock,3.0,2023-11-09
+10073,Bluetooth Speaker,Electronics ,OnePlus,19999.0,,1.0,10,Cloudtail ,In Stock,1.0,2023-09-21
+10074,Laptop,Electronics ,Samsung,,,4.0,100,Appario,out of stock,1.0,2023-07-26
+10075,Bluetooth Speaker,Electronics,Boat,,10.0,3.0,10,Appario,In Stock,2.0,2023-04-05
+10076,Laptop,Electronics,Mi,9999.0,5.0,2.0,500,RetailNet,out of stock,2.0,2023-08-10
+10077,Mobile Phone,Electronics,Mi,9999.0,20.0,2.0,100,RetailNet,In Stock,5.0,2023-10-03
+10078,Smart Watch,Electronics ,Apple,24999.0,,3.0,500,RetailNet,In stock,,2023-08-19
+10079,Smart Watch,electronics,Boat,,10.0,1.0,500,Cloudtail ,Out of Stock,1.0,2023-11-05
+10080,Smart Watch,Gadgets,OnePlus,14999.0,,2.0,50,RetailNet,out of stock,,2023-04-29
+10081,Bluetooth Speaker,Gadgets,Samsung,19999.0,20.0,5.0,10,Appario,In Stock,5.0,2023-09-25
+10082,Mobile Phone,Electronics,Apple,9999.0,20.0,,1000,Appario,Out of Stock,1.0,2023-09-30
+10083,Bluetooth Speaker,Electronics,Mi,19999.0,15.0,3.0,10,Cloudtail,In Stock,1.0,2023-03-05
+10084,Bluetooth Speaker,Electronics ,OnePlus,19999.0,10.0,3.0,1000,Cloudtail ,Out of Stock,,2023-10-25
+10085,Mobile Phone,Gadgets,OnePlus,24999.0,20.0,2.0,10,Cloudtail,Out of Stock,3.0,2023-12-16
+10086,Mobile Phone,Electronics,Samsung,,15.0,1.0,500,Appario,In Stock,2.0,2023-01-11
+10087,Mobile Phone,electronics,Mi,9999.0,15.0,5.0,100,Cloudtail,out of stock,3.0,2023-04-08
+10088,Mobile Phone,electronics,Boat,19999.0,,1.0,100,Appario,out of stock,,2023-03-12
+10089,Smart Watch,Electronics,OnePlus,9999.0,,4.0,50,Cloudtail,In stock,2.0,2023-12-30
+10090,Headphones,Electronics,Samsung,14999.0,15.0,4.0,1000,RetailNet,Out of Stock,3.0,2023-02-27
+10091,Headphones,Gadgets,Boat,24999.0,,,1000,Cloudtail,In stock,2.0,2023-10-17
+10092,Mobile Phone,Gadgets,Mi,14999.0,20.0,2.0,1000,RetailNet,In stock,1.0,2023-09-08
+10093,Headphones,Electronics ,OnePlus,9999.0,5.0,2.0,500,RetailNet,In Stock,3.0,2023-10-03
+10094,Headphones,Gadgets,Boat,9999.0,20.0,2.0,1000,Cloudtail ,In Stock,2.0,2023-02-19
+10095,Mobile Phone,electronics,Boat,,15.0,,100,RetailNet,In Stock,2.0,2023-12-24
+10096,Headphones,electronics,Boat,19999.0,15.0,4.0,500,RetailNet,Out of Stock,2.0,2023-08-04
+10097,Bluetooth Speaker,Electronics,OnePlus,19999.0,20.0,1.0,10,Cloudtail,In Stock,3.0,2023-02-21
+10098,Laptop,Gadgets,OnePlus,14999.0,,,1000,Appario,In Stock,5.0,2023-09-28
+10099,Laptop,Electronics ,Apple,24999.0,,,1000,Cloudtail ,Out of Stock,3.0,2023-03-25
+10100,Mobile Phone,electronics,Mi,19999.0,15.0,1.0,10,RetailNet,Out of Stock,,2023-10-20
+10101,Smart Watch,electronics,Samsung,,10.0,2.0,1000,Cloudtail ,out of stock,3.0,2023-05-06
+10102,Mobile Phone,Electronics ,Boat,14999.0,,5.0,10,Cloudtail,In Stock,2.0,2023-10-23
+10103,Smart Watch,Electronics ,Apple,14999.0,20.0,1.0,500,RetailNet,In Stock,1.0,2023-03-13
+10104,Laptop,electronics,Samsung,,,4.0,100,Cloudtail,In Stock,3.0,2023-10-23
+10105,Mobile Phone,electronics,Apple,24999.0,20.0,3.0,10,Cloudtail ,out of stock,3.0,2023-08-24
+10106,Bluetooth Speaker,Electronics ,OnePlus,,15.0,3.0,50,Cloudtail,In Stock,2.0,2023-02-25
+10107,Headphones,electronics,Boat,24999.0,,,10,Cloudtail ,out of stock,1.0,2023-12-26
+10108,Smart Watch,Electronics,Samsung,,20.0,3.0,1000,Cloudtail,In stock,1.0,2023-04-20
+10109,Headphones,Electronics,Samsung,,15.0,5.0,500,Cloudtail ,out of stock,,2023-07-11
+10110,Headphones,Electronics ,Samsung,9999.0,10.0,2.0,500,Appario,In stock,3.0,2023-04-03
+10111,Mobile Phone,Gadgets,Samsung,14999.0,20.0,4.0,10,Cloudtail,In Stock,1.0,2023-12-16
+10112,Headphones,Electronics ,Samsung,,10.0,5.0,100,Cloudtail,In stock,1.0,2023-02-25
+10113,Bluetooth Speaker,Electronics ,Apple,,10.0,4.0,50,Appario,out of stock,5.0,2023-03-01
+10114,Headphones,Gadgets,Boat,19999.0,5.0,4.0,500,Appario,Out of Stock,5.0,2023-05-18
+10115,Mobile Phone,Gadgets,OnePlus,14999.0,,2.0,1000,Cloudtail,In stock,1.0,2023-02-08
+10116,Bluetooth Speaker,Gadgets,OnePlus,19999.0,20.0,,1000,Appario,In stock,,2023-01-28
+10117,Laptop,Electronics,OnePlus,14999.0,10.0,3.0,100,RetailNet,In Stock,1.0,2023-02-18
+10118,Headphones,electronics,OnePlus,19999.0,5.0,2.0,500,Cloudtail ,out of stock,2.0,2023-05-05
+10119,Mobile Phone,Electronics,Apple,,15.0,5.0,10,Cloudtail ,In stock,3.0,2023-01-13
+10120,Laptop,electronics,Mi,,20.0,,1000,Cloudtail ,In stock,,2023-02-05
+10121,Laptop,Electronics,Boat,9999.0,10.0,5.0,100,RetailNet,In stock,2.0,2023-04-11
+10122,Smart Watch,electronics,Samsung,19999.0,,,500,Appario,In stock,,2023-10-09
+10123,Bluetooth Speaker,Electronics,Mi,24999.0,5.0,5.0,500,Appario,Out of Stock,2.0,2023-03-27
+10124,Headphones,Gadgets,OnePlus,9999.0,10.0,2.0,500,Cloudtail,out of stock,3.0,2023-01-04
+10125,Mobile Phone,Electronics ,Mi,19999.0,,,500,Appario,In Stock,3.0,2023-08-11
+10126,Smart Watch,Electronics,Boat,19999.0,10.0,,500,Cloudtail,In Stock,5.0,2023-12-04
+10127,Bluetooth Speaker,electronics,Samsung,9999.0,20.0,4.0,1000,RetailNet,Out of Stock,2.0,2023-06-15
+10128,Smart Watch,Gadgets,Samsung,,20.0,4.0,100,Cloudtail ,out of stock,5.0,2023-12-10
+10129,Bluetooth Speaker,Electronics,Boat,19999.0,20.0,1.0,500,Cloudtail ,In stock,2.0,2023-10-05
+10130,Bluetooth Speaker,Electronics,Boat,,5.0,5.0,50,Cloudtail ,Out of Stock,5.0,2023-05-10
+10131,Headphones,Gadgets,OnePlus,9999.0,20.0,4.0,50,Appario,out of stock,3.0,2023-01-31
+10132,Bluetooth Speaker,Electronics,Samsung,,,1.0,100,Cloudtail,In stock,,2023-01-11
+10133,Smart Watch,Electronics ,Mi,14999.0,10.0,4.0,10,Cloudtail,Out of Stock,5.0,2023-10-29
+10134,Bluetooth Speaker,Electronics,Apple,24999.0,15.0,5.0,10,RetailNet,out of stock,2.0,2023-04-06
+10135,Headphones,Electronics ,Apple,19999.0,,,10,Appario,In Stock,2.0,2023-07-09
+10136,Headphones,Electronics ,Boat,24999.0,,3.0,50,RetailNet,In Stock,3.0,2023-07-11
+10137,Smart Watch,Gadgets,OnePlus,,20.0,5.0,10,Cloudtail,out of stock,2.0,2023-09-23
+10138,Laptop,Electronics,Apple,19999.0,5.0,2.0,1000,Cloudtail,In Stock,1.0,2023-05-08
+10139,Laptop,Gadgets,Samsung,,10.0,4.0,500,Cloudtail ,out of stock,,2023-08-26
+10140,Bluetooth Speaker,Electronics,Boat,14999.0,5.0,4.0,50,Appario,In stock,5.0,2023-12-21
+10141,Mobile Phone,Electronics,Mi,9999.0,10.0,,100,Cloudtail,out of stock,,2023-04-22
+10142,Bluetooth Speaker,electronics,Boat,19999.0,10.0,2.0,100,Cloudtail ,In stock,3.0,2023-11-12
+10143,Smart Watch,Electronics,Mi,14999.0,5.0,,500,Appario,Out of Stock,5.0,2023-12-09
+10144,Smart Watch,Gadgets,Boat,14999.0,,2.0,50,RetailNet,out of stock,5.0,2023-05-25
+10145,Smart Watch,Electronics ,Boat,19999.0,10.0,3.0,10,Appario,Out of Stock,1.0,2023-03-06
+10146,Smart Watch,Electronics,Boat,,5.0,4.0,10,Appario,In Stock,3.0,2023-09-04
+10147,Smart Watch,electronics,Mi,14999.0,10.0,4.0,1000,Cloudtail,In stock,2.0,2023-08-11
+10148,Headphones,Gadgets,Mi,24999.0,15.0,3.0,1000,Cloudtail,out of stock,1.0,2023-11-09
+10149,Laptop,Electronics,Boat,14999.0,,1.0,10,Appario,Out of Stock,1.0,2023-04-16
+10150,Smart Watch,Gadgets,Apple,,20.0,,100,Cloudtail,In stock,,2023-06-30
+10151,Mobile Phone,electronics,OnePlus,,10.0,3.0,100,Cloudtail,In stock,,2023-07-03
+10152,Mobile Phone,electronics,OnePlus,24999.0,15.0,,1000,Cloudtail,In Stock,,2023-08-14
+10153,Mobile Phone,Gadgets,OnePlus,14999.0,20.0,5.0,500,Cloudtail ,In Stock,1.0,2023-09-22
+10154,Mobile Phone,Electronics,Mi,,20.0,4.0,10,Cloudtail ,In stock,2.0,2023-10-05
+10155,Headphones,Electronics ,Mi,19999.0,10.0,,1000,Appario,In stock,5.0,2023-03-30
+10156,Mobile Phone,electronics,Apple,9999.0,5.0,2.0,1000,Cloudtail,out of stock,,2023-06-25
+10157,Smart Watch,Electronics,OnePlus,9999.0,10.0,,10,Cloudtail ,In stock,2.0,2023-01-18
+10158,Bluetooth Speaker,Electronics,OnePlus,9999.0,15.0,5.0,10,Appario,out of stock,3.0,2023-04-16
+10159,Mobile Phone,Electronics ,Boat,14999.0,20.0,4.0,100,Cloudtail,In stock,,2023-09-28
+10160,Headphones,electronics,Mi,24999.0,10.0,3.0,500,RetailNet,In Stock,5.0,2023-11-15
+10161,Headphones,electronics,OnePlus,,5.0,5.0,500,Cloudtail,out of stock,3.0,2023-06-16
+10162,Mobile Phone,Electronics,Apple,19999.0,10.0,4.0,10,Cloudtail,Out of Stock,3.0,2023-01-13
+10163,Bluetooth Speaker,Electronics,Apple,19999.0,,,50,Cloudtail ,In Stock,5.0,2023-12-03
+10164,Mobile Phone,Electronics ,OnePlus,14999.0,5.0,1.0,1000,Appario,out of stock,,2023-02-01
+10165,Headphones,Electronics ,Mi,9999.0,15.0,1.0,1000,Appario,out of stock,1.0,2023-02-09
+10166,Laptop,electronics,Apple,14999.0,20.0,2.0,10,Cloudtail ,Out of Stock,5.0,2023-05-28
+10167,Smart Watch,Gadgets,Boat,24999.0,10.0,4.0,50,Cloudtail,out of stock,5.0,2023-08-06
+10168,Headphones,electronics,Apple,24999.0,5.0,1.0,100,RetailNet,In stock,5.0,2023-08-07
+10169,Mobile Phone,Electronics,Samsung,,,3.0,10,Cloudtail,Out of Stock,3.0,2023-03-23
+10170,Smart Watch,electronics,Samsung,,5.0,4.0,10,Cloudtail,In Stock,2.0,2023-11-29
+10171,Mobile Phone,Gadgets,Mi,24999.0,,3.0,1000,RetailNet,In Stock,1.0,2023-07-27
+10172,Mobile Phone,Electronics ,OnePlus,24999.0,15.0,3.0,10,Cloudtail ,In stock,,2023-07-20
+10173,Laptop,Gadgets,Mi,24999.0,20.0,1.0,10,Appario,In Stock,,2023-11-28
+10174,Smart Watch,Gadgets,Mi,14999.0,15.0,4.0,10,Cloudtail ,out of stock,2.0,2023-02-07
+10175,Smart Watch,Gadgets,Mi,24999.0,10.0,,1000,Cloudtail ,out of stock,5.0,2023-07-30
+10176,Laptop,Electronics ,Mi,19999.0,5.0,5.0,100,Cloudtail,In stock,1.0,2023-11-23
+10177,Headphones,Gadgets,Boat,9999.0,,1.0,100,Appario,In Stock,,2023-09-06
+10178,Mobile Phone,Gadgets,Boat,24999.0,,1.0,10,Appario,In Stock,,2023-08-15
+10179,Bluetooth Speaker,Gadgets,Apple,9999.0,5.0,,1000,Cloudtail ,In stock,5.0,2023-02-17
+10180,Mobile Phone,Electronics,Samsung,14999.0,5.0,4.0,100,RetailNet,Out of Stock,2.0,2023-01-18
+10181,Mobile Phone,Gadgets,Mi,9999.0,10.0,4.0,100,Cloudtail ,In Stock,1.0,2023-10-22
+10182,Headphones,Electronics ,Apple,14999.0,15.0,3.0,100,RetailNet,Out of Stock,2.0,2023-07-15
+10183,Mobile Phone,Gadgets,Samsung,19999.0,,,1000,Appario,In Stock,2.0,2023-07-06
+10184,Laptop,Gadgets,OnePlus,14999.0,10.0,,1000,Cloudtail ,In Stock,1.0,2023-12-11
+10185,Laptop,Electronics ,Boat,14999.0,15.0,4.0,10,Cloudtail,In Stock,1.0,2023-08-12
+10186,Smart Watch,Gadgets,Samsung,,10.0,3.0,500,Cloudtail ,In Stock,,2023-11-14
+10187,Bluetooth Speaker,Electronics ,OnePlus,24999.0,,1.0,100,Appario,out of stock,,2023-12-31
+10188,Mobile Phone,Gadgets,Samsung,24999.0,5.0,2.0,500,Cloudtail,Out of Stock,1.0,2023-12-03
+10189,Mobile Phone,Electronics ,Boat,19999.0,5.0,5.0,1000,Cloudtail,Out of Stock,3.0,2023-08-17
+10190,Headphones,Gadgets,Boat,19999.0,15.0,1.0,1000,RetailNet,In Stock,,2023-03-18
+10191,Laptop,Gadgets,Apple,24999.0,20.0,4.0,1000,Cloudtail,In Stock,3.0,2023-07-07
+10192,Bluetooth Speaker,Electronics,Mi,,15.0,5.0,500,Cloudtail,Out of Stock,1.0,2023-12-12
+10193,Smart Watch,Electronics,Samsung,24999.0,20.0,2.0,1000,Cloudtail ,out of stock,,2023-09-27
+10194,Laptop,Gadgets,Samsung,,10.0,2.0,10,Appario,In stock,2.0,2023-04-05
+10195,Smart Watch,Gadgets,OnePlus,19999.0,10.0,3.0,1000,RetailNet,In stock,1.0,2023-11-06
+10196,Headphones,electronics,Boat,9999.0,,5.0,50,Cloudtail ,Out of Stock,5.0,2023-05-12
+10197,Headphones,Electronics ,Samsung,19999.0,20.0,3.0,500,Cloudtail,In Stock,3.0,2023-02-08
+10198,Mobile Phone,electronics,Boat,19999.0,,1.0,50,Cloudtail,In Stock,1.0,2023-03-13
+10199,Bluetooth Speaker,Electronics,Samsung,14999.0,5.0,,1000,RetailNet,out of stock,1.0,2023-10-08
+10200,Smart Watch,Electronics,Apple,14999.0,20.0,,10,Appario,In stock,,2023-11-29
+10201,Laptop,Electronics,Mi,14999.0,15.0,,100,RetailNet,out of stock,,2023-06-09
+10202,Headphones,Electronics,Samsung,14999.0,5.0,5.0,1000,Cloudtail ,In stock,,2023-07-06
+10203,Mobile Phone,Gadgets,Boat,,5.0,,10,RetailNet,Out of Stock,5.0,2023-07-10
+10204,Mobile Phone,Electronics,Apple,24999.0,15.0,1.0,500,Cloudtail,In stock,,2023-04-30
+10205,Smart Watch,Gadgets,Samsung,9999.0,5.0,3.0,50,Cloudtail ,out of stock,1.0,2023-08-08
+10206,Headphones,Gadgets,OnePlus,19999.0,20.0,5.0,50,Cloudtail,out of stock,,2023-02-22
+10207,Bluetooth Speaker,Electronics,Mi,,,3.0,50,Appario,out of stock,2.0,2023-08-10
+10208,Headphones,Electronics,Samsung,9999.0,5.0,5.0,500,Cloudtail,Out of Stock,,2023-05-11
+10209,Smart Watch,Electronics ,Apple,,20.0,3.0,10,Cloudtail,In stock,5.0,2023-08-25
+10210,Smart Watch,electronics,OnePlus,,10.0,2.0,500,RetailNet,In stock,2.0,2023-09-03
+10211,Headphones,Electronics,Apple,19999.0,20.0,3.0,50,Cloudtail,out of stock,1.0,2023-08-14
+10212,Smart Watch,Electronics ,Apple,24999.0,,,1000,Cloudtail ,In stock,1.0,2023-07-27
+10213,Headphones,Electronics ,OnePlus,14999.0,20.0,2.0,100,Cloudtail ,In Stock,3.0,2023-04-06
+10214,Laptop,electronics,Apple,24999.0,15.0,3.0,500,Appario,In Stock,2.0,2023-07-19
+10215,Headphones,Gadgets,OnePlus,19999.0,,5.0,500,Cloudtail ,In Stock,3.0,2023-09-04
+10216,Headphones,Electronics,Samsung,19999.0,10.0,5.0,10,RetailNet,In stock,2.0,2023-03-13
+10217,Smart Watch,electronics,OnePlus,19999.0,15.0,5.0,10,Appario,Out of Stock,2.0,2023-11-14
+10218,Smart Watch,Electronics,OnePlus,9999.0,20.0,4.0,500,Cloudtail ,Out of Stock,5.0,2023-07-04
+10219,Mobile Phone,Electronics ,Mi,24999.0,,1.0,50,RetailNet,Out of Stock,3.0,2023-01-06
+10220,Mobile Phone,Electronics ,OnePlus,24999.0,10.0,5.0,100,Cloudtail ,Out of Stock,5.0,2023-07-25
+10221,Laptop,Gadgets,OnePlus,,15.0,2.0,10,Cloudtail ,In Stock,2.0,2023-02-01
+10222,Mobile Phone,Electronics ,Samsung,,10.0,5.0,50,Cloudtail,In Stock,1.0,2023-04-09
+10223,Headphones,Electronics ,Mi,,20.0,4.0,1000,Cloudtail ,out of stock,2.0,2023-09-13
+10224,Smart Watch,electronics,Boat,19999.0,10.0,,10,Cloudtail ,In stock,5.0,2023-07-06
+10225,Mobile Phone,Electronics,Samsung,24999.0,5.0,2.0,50,RetailNet,In stock,3.0,2023-03-17
+10226,Mobile Phone,Electronics,Samsung,19999.0,15.0,4.0,50,RetailNet,Out of Stock,3.0,2023-06-26
+10227,Laptop,electronics,Boat,9999.0,10.0,,100,Cloudtail,In Stock,5.0,2023-11-11
+10228,Laptop,Gadgets,OnePlus,,20.0,2.0,100,Cloudtail ,Out of Stock,3.0,2023-10-14
+10229,Headphones,Electronics,Apple,19999.0,20.0,3.0,1000,Cloudtail,out of stock,,2023-12-15
+10230,Smart Watch,Electronics ,Mi,19999.0,10.0,1.0,50,Cloudtail ,In stock,1.0,2023-09-12
+10231,Laptop,Electronics,Apple,9999.0,20.0,1.0,50,Appario,In stock,1.0,2023-11-21
+10232,Mobile Phone,Electronics ,Boat,14999.0,,4.0,100,Appario,Out of Stock,1.0,2023-07-09
+10233,Smart Watch,Gadgets,Samsung,24999.0,,,10,Cloudtail,out of stock,3.0,2023-11-04
+10234,Smart Watch,electronics,Samsung,14999.0,,1.0,10,Cloudtail,In stock,3.0,2023-12-11
+10235,Mobile Phone,Electronics,Mi,,5.0,,500,Cloudtail,out of stock,2.0,2023-05-07
+10236,Laptop,electronics,Samsung,19999.0,10.0,,100,RetailNet,out of stock,2.0,2023-10-14
+10237,Mobile Phone,Electronics,Samsung,9999.0,5.0,4.0,500,RetailNet,Out of Stock,1.0,2023-09-11
+10238,Smart Watch,Electronics ,Mi,9999.0,20.0,4.0,100,RetailNet,In Stock,,2023-08-01
+10239,Bluetooth Speaker,electronics,Mi,24999.0,5.0,4.0,1000,Cloudtail,Out of Stock,2.0,2023-09-07
+10240,Bluetooth Speaker,Electronics,Boat,14999.0,20.0,1.0,50,Cloudtail ,In Stock,2.0,2023-03-25
+10241,Headphones,Electronics ,Samsung,24999.0,20.0,4.0,1000,Appario,out of stock,3.0,2023-01-13
+10242,Mobile Phone,electronics,Samsung,19999.0,15.0,1.0,100,Cloudtail,In Stock,,2023-02-14
+10243,Mobile Phone,electronics,Boat,24999.0,,4.0,50,RetailNet,out of stock,1.0,2023-05-07
+10244,Headphones,Electronics,OnePlus,9999.0,20.0,5.0,10,RetailNet,In stock,2.0,2023-04-24
+10245,Headphones,Electronics,OnePlus,9999.0,15.0,,10,Cloudtail,In stock,,2023-10-03
+10246,Headphones,Electronics,OnePlus,,,4.0,500,Cloudtail,In stock,,2023-07-24
+10247,Smart Watch,Electronics ,Boat,,20.0,2.0,100,RetailNet,Out of Stock,1.0,2023-12-03
+10248,Mobile Phone,Electronics,Samsung,19999.0,20.0,,100,Cloudtail ,Out of Stock,,2023-09-30
+10249,Smart Watch,electronics,Boat,14999.0,5.0,,10,RetailNet,out of stock,,2023-02-27
+10250,Headphones,electronics,Boat,24999.0,5.0,4.0,1000,RetailNet,In stock,,2023-11-24
+10251,Mobile Phone,Electronics,OnePlus,19999.0,,3.0,50,Cloudtail,Out of Stock,2.0,2023-08-07
+10252,Smart Watch,Electronics,Apple,,20.0,4.0,1000,Cloudtail ,In stock,1.0,2023-04-19
+10253,Smart Watch,Gadgets,Samsung,24999.0,10.0,,1000,RetailNet,Out of Stock,,2023-10-06
+10254,Headphones,electronics,OnePlus,,5.0,2.0,10,RetailNet,In Stock,,2023-06-23
+10255,Mobile Phone,Electronics ,Apple,24999.0,,,10,Appario,In Stock,2.0,2023-11-24
+10256,Headphones,Gadgets,Apple,14999.0,20.0,2.0,10,Cloudtail,In stock,1.0,2023-09-21
+10257,Mobile Phone,Electronics,Mi,19999.0,20.0,1.0,500,Appario,out of stock,3.0,2023-11-11
+10258,Bluetooth Speaker,Electronics,Samsung,24999.0,10.0,5.0,1000,Appario,Out of Stock,2.0,2023-04-21
+10259,Laptop,electronics,Apple,9999.0,,,100,RetailNet,Out of Stock,1.0,2023-07-06
+10260,Laptop,Electronics,OnePlus,9999.0,20.0,4.0,50,Cloudtail,In Stock,,2023-09-26
+10261,Laptop,Electronics ,Mi,24999.0,5.0,1.0,500,Cloudtail ,In Stock,1.0,2023-08-17
+10262,Headphones,electronics,Samsung,24999.0,10.0,5.0,100,RetailNet,out of stock,1.0,2023-06-05
+10263,Bluetooth Speaker,Electronics,Boat,24999.0,,4.0,1000,Cloudtail ,out of stock,1.0,2023-07-08
+10264,Mobile Phone,electronics,OnePlus,9999.0,10.0,3.0,10,Cloudtail ,out of stock,3.0,2023-09-29
+10265,Smart Watch,Electronics,Apple,9999.0,5.0,4.0,1000,Cloudtail,In stock,1.0,2023-01-02
+10266,Mobile Phone,Electronics,Apple,24999.0,,2.0,50,Appario,In Stock,3.0,2023-09-03
+10267,Smart Watch,Electronics,OnePlus,,10.0,2.0,500,Cloudtail,In stock,,2023-07-29
+10268,Mobile Phone,Electronics ,Apple,,15.0,3.0,500,Cloudtail ,In Stock,3.0,2023-10-13
+10269,Bluetooth Speaker,Electronics ,Mi,14999.0,5.0,1.0,50,RetailNet,In Stock,,2023-12-25
+10270,Smart Watch,electronics,Samsung,19999.0,5.0,5.0,100,Cloudtail ,Out of Stock,,2023-01-13
+10271,Headphones,Electronics,Mi,,5.0,4.0,100,RetailNet,In Stock,3.0,2023-04-06
+10272,Mobile Phone,Electronics,Apple,9999.0,15.0,2.0,500,RetailNet,In Stock,2.0,2023-08-09
+10273,Mobile Phone,Electronics ,Boat,,15.0,1.0,500,Cloudtail,In stock,5.0,2023-08-26
+10274,Smart Watch,Electronics,Samsung,14999.0,20.0,3.0,10,Cloudtail ,In Stock,1.0,2023-04-04
+10275,Headphones,Electronics ,Samsung,14999.0,10.0,,100,Appario,In stock,5.0,2023-12-04
+10276,Headphones,Electronics,OnePlus,19999.0,20.0,2.0,50,Cloudtail ,out of stock,1.0,2023-09-26
+10277,Bluetooth Speaker,electronics,OnePlus,,10.0,3.0,100,Cloudtail ,In Stock,1.0,2023-06-20
+10278,Headphones,Electronics,Boat,9999.0,15.0,4.0,10,Appario,In Stock,,2023-04-04
+10279,Headphones,Electronics,Samsung,9999.0,15.0,5.0,500,Cloudtail,In stock,1.0,2023-05-29
+10280,Headphones,Gadgets,Boat,24999.0,20.0,2.0,500,Cloudtail ,out of stock,1.0,2023-04-22
+10281,Laptop,Electronics ,OnePlus,9999.0,,2.0,10,Cloudtail ,Out of Stock,3.0,2023-02-24
+10282,Bluetooth Speaker,Electronics,OnePlus,19999.0,20.0,4.0,50,RetailNet,out of stock,5.0,2023-12-03
+10283,Mobile Phone,Electronics,Samsung,19999.0,10.0,,500,Cloudtail ,In stock,3.0,2023-04-26
+10284,Smart Watch,Gadgets,Mi,9999.0,20.0,1.0,1000,Appario,out of stock,1.0,2023-05-23
+10285,Mobile Phone,Gadgets,Apple,9999.0,5.0,5.0,500,RetailNet,In stock,,2023-07-20
+10286,Bluetooth Speaker,Electronics ,OnePlus,24999.0,10.0,2.0,1000,Cloudtail,In stock,3.0,2023-06-29
+10287,Smart Watch,Gadgets,OnePlus,9999.0,10.0,5.0,10,RetailNet,Out of Stock,3.0,2023-07-21
+10288,Bluetooth Speaker,electronics,Mi,24999.0,,2.0,10,Appario,In Stock,2.0,2023-12-30
+10289,Headphones,Gadgets,Mi,24999.0,15.0,5.0,500,Appario,In stock,1.0,2023-02-22
+10290,Smart Watch,electronics,Boat,9999.0,10.0,3.0,100,RetailNet,In stock,,2023-06-29
+10291,Headphones,Electronics ,Boat,14999.0,15.0,2.0,1000,Cloudtail,Out of Stock,3.0,2023-11-09
+10292,Mobile Phone,Electronics ,Apple,14999.0,20.0,5.0,50,RetailNet,In stock,3.0,2023-11-04
+10293,Mobile Phone,Electronics ,Apple,24999.0,5.0,1.0,500,Cloudtail,In Stock,,2023-05-17
+10294,Smart Watch,Electronics ,Samsung,9999.0,,3.0,50,RetailNet,Out of Stock,1.0,2023-07-01
+10295,Smart Watch,Electronics ,Boat,14999.0,15.0,3.0,500,Appario,In Stock,2.0,2023-01-01
+10296,Bluetooth Speaker,electronics,OnePlus,9999.0,10.0,1.0,100,Cloudtail ,In Stock,3.0,2023-02-13
+10297,Bluetooth Speaker,electronics,Boat,9999.0,15.0,5.0,100,Cloudtail ,Out of Stock,2.0,2023-08-15
+10298,Headphones,Electronics ,OnePlus,9999.0,10.0,4.0,100,Cloudtail,In stock,5.0,2023-11-27
+10299,Smart Watch,Gadgets,Mi,,15.0,1.0,100,Cloudtail,In Stock,1.0,2023-04-08
+10300,Mobile Phone,Electronics,Boat,9999.0,10.0,5.0,10,Cloudtail,In Stock,5.0,2023-07-27
+10301,Bluetooth Speaker,Electronics ,Mi,,20.0,1.0,10,Appario,In Stock,5.0,2023-09-22
+10302,Bluetooth Speaker,Gadgets,Apple,24999.0,10.0,1.0,1000,RetailNet,In Stock,5.0,2023-10-15
+10303,Mobile Phone,Electronics,Apple,14999.0,10.0,2.0,50,Appario,Out of Stock,1.0,2023-09-28
+10304,Bluetooth Speaker,Electronics ,Samsung,14999.0,5.0,5.0,500,Cloudtail ,Out of Stock,1.0,2023-05-20
+10305,Headphones,Electronics ,Boat,14999.0,10.0,4.0,500,Cloudtail,out of stock,,2023-08-25
+10306,Smart Watch,electronics,Mi,14999.0,5.0,2.0,10,RetailNet,out of stock,2.0,2023-03-13
+10307,Mobile Phone,Electronics,OnePlus,14999.0,,1.0,500,Cloudtail ,In Stock,2.0,2023-06-04
+10308,Smart Watch,Electronics,Apple,14999.0,5.0,,10,Cloudtail ,In stock,,2023-07-09
+10309,Bluetooth Speaker,Gadgets,Apple,14999.0,20.0,1.0,1000,Cloudtail ,In Stock,,2023-09-25
+10310,Bluetooth Speaker,electronics,OnePlus,24999.0,5.0,1.0,50,Appario,In stock,5.0,2023-11-17
+10311,Mobile Phone,electronics,Mi,9999.0,,5.0,1000,Cloudtail,In Stock,,2023-04-17
+10312,Headphones,electronics,Mi,19999.0,20.0,5.0,100,Cloudtail ,out of stock,3.0,2023-08-20
+10313,Laptop,electronics,Boat,,15.0,2.0,100,Cloudtail,out of stock,2.0,2023-02-11
+10314,Mobile Phone,Electronics,Boat,19999.0,15.0,4.0,100,Appario,In stock,,2023-07-09
+10315,Laptop,Electronics,Samsung,19999.0,5.0,2.0,1000,Cloudtail ,In Stock,3.0,2023-05-19
+10316,Laptop,Electronics ,Apple,9999.0,5.0,3.0,500,Appario,In stock,3.0,2023-04-13
+10317,Headphones,Electronics ,Boat,9999.0,,1.0,50,Appario,out of stock,3.0,2023-06-20
+10318,Laptop,electronics,Mi,9999.0,,,100,Cloudtail,In Stock,3.0,2023-12-17
+10319,Laptop,electronics,OnePlus,14999.0,10.0,1.0,100,Cloudtail ,In Stock,5.0,2023-09-30
+10320,Headphones,electronics,Mi,24999.0,,1.0,100,Appario,In stock,3.0,2023-08-09
+10321,Laptop,Electronics ,Apple,14999.0,10.0,2.0,50,Cloudtail ,Out of Stock,5.0,2023-08-01
+10322,Laptop,Gadgets,Mi,24999.0,20.0,,100,Cloudtail,In stock,5.0,2023-12-07
+10323,Laptop,Gadgets,Samsung,24999.0,5.0,,50,Appario,out of stock,3.0,2023-02-25
+10324,Mobile Phone,Electronics ,Apple,19999.0,20.0,,100,Cloudtail,out of stock,2.0,2023-12-08
+10325,Mobile Phone,Electronics ,OnePlus,19999.0,,2.0,1000,Cloudtail ,out of stock,3.0,2023-04-12
+10326,Mobile Phone,Electronics ,Samsung,24999.0,20.0,1.0,1000,Cloudtail ,out of stock,3.0,2023-07-11
+10327,Headphones,Electronics ,Apple,24999.0,20.0,2.0,50,Cloudtail,out of stock,3.0,2023-11-06
+10328,Bluetooth Speaker,Electronics ,OnePlus,14999.0,20.0,5.0,1000,RetailNet,Out of Stock,2.0,2023-07-19
+10329,Laptop,Electronics ,Samsung,14999.0,,5.0,50,Appario,In Stock,1.0,2023-08-21
+10330,Laptop,electronics,Samsung,19999.0,20.0,2.0,1000,Cloudtail ,In stock,1.0,2023-08-15
+10331,Headphones,electronics,Apple,9999.0,10.0,,1000,Cloudtail ,In stock,5.0,2023-05-19
+10332,Laptop,electronics,Boat,24999.0,,1.0,50,Appario,out of stock,5.0,2023-12-10
+10333,Mobile Phone,electronics,Samsung,14999.0,20.0,2.0,500,Cloudtail,In stock,2.0,2023-11-01
+10334,Bluetooth Speaker,Electronics ,Samsung,19999.0,,2.0,1000,Cloudtail,out of stock,,2023-05-29
+10335,Smart Watch,Gadgets,OnePlus,14999.0,15.0,2.0,100,Cloudtail,Out of Stock,1.0,2023-04-25
+10336,Laptop,Electronics,Mi,24999.0,10.0,3.0,500,RetailNet,Out of Stock,5.0,2023-03-04
+10337,Mobile Phone,Electronics ,Apple,24999.0,20.0,5.0,50,RetailNet,In Stock,1.0,2023-04-14
+10338,Smart Watch,Electronics,Apple,,15.0,,500,Cloudtail ,Out of Stock,2.0,2023-12-05
+10339,Bluetooth Speaker,Gadgets,Boat,9999.0,15.0,4.0,10,Cloudtail,Out of Stock,2.0,2023-12-25
+10340,Smart Watch,electronics,Boat,,,,10,Appario,In Stock,,2023-06-05
+10341,Mobile Phone,Gadgets,Apple,19999.0,15.0,4.0,1000,Cloudtail ,In stock,,2023-09-30
+10342,Smart Watch,Electronics ,Boat,14999.0,10.0,3.0,1000,Appario,out of stock,2.0,2023-01-06
+10343,Headphones,electronics,OnePlus,19999.0,10.0,2.0,100,Cloudtail ,out of stock,5.0,2023-05-27
+10344,Smart Watch,Electronics ,Apple,24999.0,5.0,3.0,500,RetailNet,In stock,1.0,2023-07-03
+10345,Laptop,electronics,Boat,,10.0,3.0,10,Cloudtail ,In Stock,3.0,2023-01-28
+10346,Laptop,Electronics,Apple,,15.0,1.0,1000,RetailNet,In stock,,2023-02-07
+10347,Headphones,Electronics,Mi,,10.0,5.0,500,Cloudtail ,Out of Stock,3.0,2023-04-29
+10348,Mobile Phone,Electronics,Samsung,19999.0,,4.0,1000,Cloudtail,In Stock,5.0,2023-10-20
+10349,Laptop,Gadgets,Apple,24999.0,5.0,2.0,1000,Appario,In Stock,,2023-09-01
+10350,Bluetooth Speaker,Electronics ,Samsung,14999.0,15.0,4.0,10,Cloudtail,In Stock,3.0,2023-03-09
+10351,Laptop,Gadgets,Boat,14999.0,5.0,,10,Cloudtail ,out of stock,5.0,2023-08-02
+10352,Laptop,Electronics,Samsung,19999.0,15.0,4.0,1000,Cloudtail ,In stock,1.0,2023-08-06
+10353,Mobile Phone,Electronics ,Apple,,,,50,Cloudtail ,In Stock,5.0,2023-06-26
+10354,Smart Watch,Electronics,Mi,9999.0,5.0,5.0,1000,RetailNet,In Stock,,2023-10-26
+10355,Laptop,Gadgets,Boat,19999.0,20.0,,1000,Appario,In Stock,2.0,2023-06-13
+10356,Headphones,Gadgets,Apple,19999.0,15.0,4.0,100,Appario,In stock,1.0,2023-02-27
+10357,Smart Watch,Gadgets,Boat,24999.0,20.0,4.0,100,Cloudtail ,out of stock,3.0,2023-09-26
+10358,Bluetooth Speaker,Electronics,OnePlus,14999.0,5.0,,100,Cloudtail ,Out of Stock,,2023-11-04
+10359,Mobile Phone,Electronics ,Samsung,19999.0,20.0,3.0,50,RetailNet,out of stock,2.0,2023-02-27
+10360,Bluetooth Speaker,Electronics ,OnePlus,19999.0,20.0,5.0,50,Cloudtail,In Stock,5.0,2023-10-15
+10361,Smart Watch,Electronics,Apple,,5.0,1.0,1000,Cloudtail,out of stock,2.0,2023-04-15
+10362,Smart Watch,Electronics ,Mi,,,2.0,100,Appario,out of stock,,2023-08-16
+10363,Smart Watch,Electronics,Boat,9999.0,20.0,4.0,50,RetailNet,Out of Stock,,2023-09-04
+10364,Bluetooth Speaker,Electronics ,Samsung,24999.0,20.0,2.0,10,Cloudtail ,In stock,2.0,2023-07-07
+10365,Smart Watch,electronics,Boat,9999.0,,1.0,1000,Appario,In stock,5.0,2023-03-24
+10366,Bluetooth Speaker,electronics,Apple,,20.0,2.0,500,RetailNet,out of stock,2.0,2023-07-05
+10367,Smart Watch,Gadgets,Boat,14999.0,20.0,1.0,1000,Cloudtail,out of stock,,2023-09-09
+10368,Headphones,electronics,Samsung,,20.0,,500,RetailNet,In stock,,2023-12-21
+10369,Smart Watch,electronics,Apple,24999.0,10.0,3.0,100,Cloudtail,In stock,3.0,2023-08-26
+10370,Bluetooth Speaker,electronics,Boat,,,4.0,500,RetailNet,Out of Stock,3.0,2023-12-26
+10371,Laptop,Electronics,Mi,24999.0,20.0,1.0,100,Appario,In Stock,1.0,2023-07-03
+10372,Smart Watch,electronics,Apple,24999.0,,2.0,10,Cloudtail,out of stock,,2023-10-11
+10373,Laptop,electronics,Apple,24999.0,15.0,4.0,500,Appario,In stock,3.0,2023-07-29
+10374,Headphones,Gadgets,Mi,24999.0,15.0,3.0,1000,Appario,out of stock,2.0,2023-10-31
+10375,Mobile Phone,electronics,OnePlus,24999.0,20.0,,100,Cloudtail,out of stock,5.0,2023-10-23
+10376,Headphones,electronics,Samsung,14999.0,,4.0,1000,Cloudtail,In stock,2.0,2023-04-07
+10377,Smart Watch,Electronics ,OnePlus,9999.0,,1.0,50,Cloudtail ,Out of Stock,5.0,2023-07-27
+10378,Laptop,Gadgets,Boat,19999.0,,3.0,100,Cloudtail ,out of stock,3.0,2023-05-17
+10379,Laptop,Gadgets,Mi,9999.0,10.0,2.0,500,Cloudtail ,Out of Stock,1.0,2023-07-03
+10380,Bluetooth Speaker,Gadgets,OnePlus,24999.0,15.0,3.0,100,Appario,In stock,2.0,2023-03-17
+10381,Laptop,Gadgets,Apple,14999.0,,3.0,1000,Appario,In Stock,2.0,2023-10-14
+10382,Bluetooth Speaker,Gadgets,Boat,,,5.0,10,Cloudtail ,In Stock,2.0,2023-05-22
+10383,Mobile Phone,Gadgets,Boat,14999.0,10.0,3.0,100,Appario,out of stock,5.0,2023-08-25
+10384,Smart Watch,Electronics,OnePlus,24999.0,10.0,3.0,500,Appario,In stock,3.0,2023-01-25
+10385,Bluetooth Speaker,electronics,OnePlus,14999.0,,4.0,50,Cloudtail,Out of Stock,2.0,2023-10-17
+10386,Mobile Phone,Gadgets,Mi,14999.0,5.0,2.0,10,Cloudtail,out of stock,2.0,2023-03-08
+10387,Laptop,electronics,Samsung,24999.0,,4.0,50,Appario,In stock,1.0,2023-09-07
+10388,Laptop,electronics,OnePlus,14999.0,,4.0,100,Cloudtail ,In stock,1.0,2023-04-28
+10389,Mobile Phone,Electronics,OnePlus,19999.0,10.0,1.0,1000,RetailNet,Out of Stock,3.0,2023-03-14
+10390,Laptop,Gadgets,Apple,19999.0,10.0,4.0,1000,Cloudtail ,out of stock,3.0,2023-10-09
+10391,Mobile Phone,Electronics ,Boat,14999.0,,5.0,500,RetailNet,In stock,,2023-12-26
+10392,Bluetooth Speaker,Electronics,Samsung,,,5.0,1000,Cloudtail ,In stock,1.0,2023-01-10
+10393,Bluetooth Speaker,Electronics ,Apple,24999.0,,1.0,10,Cloudtail,In stock,,2023-07-30
+10394,Mobile Phone,electronics,Mi,19999.0,10.0,,1000,Appario,Out of Stock,5.0,2023-11-19
+10395,Bluetooth Speaker,electronics,Mi,,,2.0,500,Appario,out of stock,,2023-06-01
+10396,Bluetooth Speaker,Electronics,OnePlus,14999.0,,2.0,100,Cloudtail,out of stock,2.0,2023-01-05
+10397,Bluetooth Speaker,Electronics,OnePlus,,20.0,4.0,100,RetailNet,out of stock,,2023-07-14
+10398,Headphones,Electronics ,Mi,9999.0,5.0,4.0,1000,RetailNet,out of stock,3.0,2023-10-10
+10399,Smart Watch,Gadgets,OnePlus,19999.0,15.0,,50,RetailNet,In Stock,5.0,2023-04-23
+10400,Laptop,Electronics ,Samsung,14999.0,5.0,4.0,100,Cloudtail,In Stock,2.0,2023-09-28
+10401,Headphones,Electronics,OnePlus,24999.0,20.0,2.0,1000,RetailNet,out of stock,,2023-06-12
+10402,Bluetooth Speaker,Electronics ,Boat,14999.0,15.0,3.0,500,Cloudtail,Out of Stock,5.0,2023-04-15
+10403,Mobile Phone,Electronics,OnePlus,24999.0,,5.0,1000,Cloudtail ,In Stock,5.0,2023-06-30
+10404,Bluetooth Speaker,Electronics ,Apple,14999.0,20.0,3.0,100,Cloudtail ,In stock,2.0,2023-02-13
+10405,Smart Watch,Electronics,Samsung,,,3.0,500,Cloudtail,In Stock,,2023-10-09
+10406,Bluetooth Speaker,Electronics,Apple,,10.0,2.0,1000,Appario,In stock,5.0,2023-06-24
+10407,Mobile Phone,Electronics,Apple,,20.0,3.0,10,Cloudtail ,out of stock,5.0,2023-06-11
+10408,Smart Watch,Gadgets,Boat,9999.0,10.0,,500,RetailNet,In Stock,1.0,2023-12-17
+10409,Bluetooth Speaker,Electronics ,Samsung,24999.0,20.0,1.0,10,Cloudtail,Out of Stock,5.0,2023-12-06
+10410,Smart Watch,Electronics ,Samsung,,20.0,4.0,50,RetailNet,In Stock,1.0,2023-05-20
+10411,Laptop,Electronics ,Samsung,9999.0,10.0,1.0,500,RetailNet,In Stock,,2023-05-12
+10412,Laptop,Electronics,Samsung,24999.0,15.0,5.0,10,Appario,In Stock,,2023-03-28
+10413,Bluetooth Speaker,Electronics ,Samsung,14999.0,5.0,4.0,100,RetailNet,out of stock,,2023-06-25
+10414,Smart Watch,Electronics ,Boat,9999.0,,3.0,100,Appario,Out of Stock,3.0,2023-07-02
+10415,Mobile Phone,Electronics,OnePlus,19999.0,20.0,5.0,50,Cloudtail ,In Stock,,2023-05-09
+10416,Bluetooth Speaker,electronics,Apple,9999.0,,4.0,500,Cloudtail,Out of Stock,5.0,2023-09-03
+10417,Laptop,Electronics,Samsung,9999.0,10.0,,500,RetailNet,out of stock,2.0,2023-03-30
+10418,Laptop,Electronics ,OnePlus,24999.0,,,500,Cloudtail,In stock,1.0,2023-03-07
+10419,Bluetooth Speaker,Electronics,OnePlus,14999.0,10.0,,50,RetailNet,In Stock,3.0,2023-06-07
+10420,Smart Watch,electronics,Apple,19999.0,,,500,Cloudtail,Out of Stock,,2023-05-29
+10421,Laptop,Electronics,Boat,,5.0,3.0,100,RetailNet,Out of Stock,,2023-12-06
+10422,Smart Watch,Electronics ,Mi,,5.0,1.0,10,RetailNet,out of stock,2.0,2023-04-26
+10423,Laptop,electronics,Mi,9999.0,5.0,4.0,100,RetailNet,In Stock,2.0,2023-08-02
+10424,Laptop,Gadgets,OnePlus,24999.0,5.0,3.0,100,RetailNet,In stock,3.0,2023-10-21
+10425,Headphones,Electronics ,Apple,24999.0,5.0,,10,RetailNet,Out of Stock,1.0,2023-09-10
+10426,Laptop,electronics,Mi,,5.0,1.0,100,RetailNet,In Stock,,2023-05-23
+10427,Mobile Phone,electronics,OnePlus,19999.0,10.0,5.0,50,RetailNet,In stock,3.0,2023-09-07
+10428,Bluetooth Speaker,Gadgets,Boat,14999.0,20.0,5.0,10,RetailNet,Out of Stock,5.0,2023-10-29
+10429,Bluetooth Speaker,Electronics,Mi,19999.0,,5.0,100,RetailNet,Out of Stock,5.0,2023-01-25
+10430,Smart Watch,Electronics,OnePlus,14999.0,5.0,,1000,Cloudtail,In stock,3.0,2023-10-04
+10431,Laptop,Electronics ,OnePlus,,10.0,5.0,100,Appario,In stock,,2023-03-11
+10432,Mobile Phone,Gadgets,Samsung,14999.0,10.0,2.0,50,RetailNet,out of stock,3.0,2023-04-23
+10433,Smart Watch,Electronics,Boat,24999.0,10.0,4.0,500,Appario,In Stock,,2023-12-29
+10434,Headphones,Gadgets,Samsung,9999.0,20.0,4.0,100,RetailNet,In Stock,2.0,2023-04-22
+10435,Smart Watch,Electronics,Apple,9999.0,,,500,RetailNet,out of stock,3.0,2023-12-30
+10436,Smart Watch,electronics,Samsung,,20.0,2.0,1000,Cloudtail,Out of Stock,,2023-10-30
+10437,Laptop,Electronics,Samsung,24999.0,15.0,3.0,100,Cloudtail ,In stock,3.0,2023-04-01
+10438,Headphones,Gadgets,Mi,19999.0,10.0,3.0,10,Cloudtail ,In stock,3.0,2023-01-18
+10439,Smart Watch,electronics,OnePlus,24999.0,15.0,5.0,500,Cloudtail,In stock,,2023-05-29
+10440,Mobile Phone,electronics,Boat,9999.0,5.0,1.0,1000,Appario,Out of Stock,,2023-08-15
+10441,Mobile Phone,electronics,Samsung,9999.0,5.0,3.0,10,Cloudtail ,In stock,1.0,2023-08-02
+10442,Bluetooth Speaker,Gadgets,Boat,24999.0,20.0,1.0,10,Cloudtail,In stock,3.0,2023-12-26
+10443,Headphones,Electronics ,Samsung,24999.0,,4.0,10,Cloudtail,out of stock,5.0,2023-05-31
+10444,Headphones,Electronics ,Apple,9999.0,15.0,1.0,10,Cloudtail ,Out of Stock,3.0,2023-07-11
+10445,Bluetooth Speaker,Electronics ,Samsung,19999.0,,4.0,100,Appario,In Stock,3.0,2023-02-09
+10446,Smart Watch,Gadgets,Mi,,20.0,2.0,100,Cloudtail,out of stock,,2023-08-30
+10447,Headphones,electronics,OnePlus,,5.0,2.0,100,RetailNet,out of stock,3.0,2023-05-18
+10448,Mobile Phone,Electronics ,Apple,24999.0,,,1000,Appario,In Stock,3.0,2023-12-11
+10449,Mobile Phone,Gadgets,Samsung,,,,1000,Appario,out of stock,5.0,2023-06-29
+10450,Laptop,Electronics ,Boat,9999.0,5.0,5.0,1000,Cloudtail ,Out of Stock,,2023-07-19
+10451,Headphones,Electronics,Apple,9999.0,15.0,3.0,50,Cloudtail ,In stock,3.0,2023-07-22
+10452,Smart Watch,Electronics ,Apple,24999.0,5.0,5.0,1000,RetailNet,Out of Stock,2.0,2023-03-02
+10453,Bluetooth Speaker,Electronics ,Samsung,24999.0,,4.0,100,Cloudtail,In Stock,1.0,2023-07-11
+10454,Bluetooth Speaker,electronics,Apple,24999.0,15.0,5.0,100,Cloudtail ,In Stock,5.0,2023-01-05
+10455,Smart Watch,Gadgets,Boat,19999.0,15.0,1.0,50,Cloudtail ,out of stock,3.0,2023-08-25
+10456,Laptop,electronics,Apple,,5.0,4.0,50,Appario,Out of Stock,2.0,2023-06-30
+10457,Bluetooth Speaker,electronics,Boat,24999.0,,,1000,Cloudtail ,Out of Stock,3.0,2023-11-07
+10458,Headphones,electronics,Samsung,14999.0,20.0,2.0,500,Cloudtail ,In Stock,3.0,2023-02-06
+10459,Laptop,electronics,OnePlus,14999.0,,,50,Cloudtail ,Out of Stock,,2023-02-25
+10460,Headphones,electronics,Apple,9999.0,10.0,3.0,10,Cloudtail ,In Stock,,2023-08-25
+10461,Mobile Phone,Electronics ,OnePlus,,20.0,4.0,100,Appario,Out of Stock,,2023-12-24
+10462,Laptop,electronics,Boat,24999.0,15.0,4.0,10,RetailNet,Out of Stock,2.0,2023-12-15
+10463,Bluetooth Speaker,electronics,Apple,14999.0,20.0,1.0,100,RetailNet,Out of Stock,3.0,2023-07-16
+10464,Laptop,Gadgets,Mi,,15.0,3.0,100,Cloudtail,In Stock,1.0,2023-03-14
+10465,Laptop,Electronics,OnePlus,9999.0,15.0,2.0,50,Cloudtail ,out of stock,5.0,2023-02-28
+10466,Laptop,Electronics ,Apple,19999.0,20.0,4.0,50,Appario,Out of Stock,,2023-08-28
+10467,Laptop,Electronics ,OnePlus,,15.0,4.0,10,Cloudtail,In Stock,,2023-01-02
+10468,Headphones,Electronics ,Apple,,15.0,1.0,100,Cloudtail,In Stock,3.0,2023-12-26
+10469,Mobile Phone,electronics,Samsung,19999.0,10.0,5.0,10,RetailNet,Out of Stock,3.0,2023-07-07
+10470,Smart Watch,electronics,OnePlus,,,2.0,500,Appario,Out of Stock,2.0,2023-11-03
+10471,Laptop,electronics,Mi,9999.0,,,10,Appario,out of stock,2.0,2023-01-30
+10472,Bluetooth Speaker,Gadgets,Mi,9999.0,10.0,3.0,1000,Appario,In Stock,,2023-09-24
+10473,Laptop,Electronics,Boat,19999.0,20.0,4.0,10,RetailNet,In Stock,3.0,2023-04-18
+10474,Bluetooth Speaker,electronics,Apple,24999.0,5.0,4.0,1000,RetailNet,In stock,1.0,2023-11-28
+10475,Headphones,Electronics,OnePlus,14999.0,5.0,,1000,RetailNet,In Stock,5.0,2023-03-31
+10476,Bluetooth Speaker,Gadgets,Boat,24999.0,5.0,2.0,1000,RetailNet,out of stock,3.0,2023-07-24
+10477,Smart Watch,Electronics ,OnePlus,,10.0,5.0,500,RetailNet,In stock,3.0,2023-08-08
+10478,Mobile Phone,electronics,Apple,14999.0,10.0,4.0,10,Cloudtail ,In stock,2.0,2023-04-04
+10479,Bluetooth Speaker,Electronics,Mi,19999.0,15.0,2.0,10,Cloudtail ,In stock,5.0,2023-04-13
+10480,Bluetooth Speaker,Electronics,Samsung,19999.0,5.0,,500,Appario,Out of Stock,,2023-08-11
+10481,Mobile Phone,electronics,Mi,14999.0,20.0,1.0,100,Cloudtail,Out of Stock,3.0,2023-07-05
+10482,Smart Watch,Electronics ,Boat,9999.0,20.0,5.0,50,Appario,In Stock,,2023-07-03
+10483,Laptop,Electronics ,Samsung,14999.0,5.0,3.0,10,Cloudtail,In stock,3.0,2023-06-11
+10484,Bluetooth Speaker,Electronics ,Boat,,5.0,4.0,50,RetailNet,out of stock,,2023-09-04
+10485,Mobile Phone,Gadgets,Apple,9999.0,5.0,2.0,500,Cloudtail,Out of Stock,5.0,2023-01-31
+10486,Headphones,Electronics,Samsung,19999.0,10.0,1.0,100,Appario,out of stock,2.0,2023-02-21
+10487,Mobile Phone,Electronics,Boat,14999.0,10.0,3.0,100,Appario,out of stock,5.0,2023-12-11
+10488,Headphones,Electronics,Apple,24999.0,10.0,2.0,100,Cloudtail,Out of Stock,1.0,2023-03-17
+10489,Smart Watch,Gadgets,Mi,24999.0,,2.0,500,Cloudtail ,Out of Stock,2.0,2023-10-05
+10490,Laptop,Electronics,Apple,,20.0,3.0,1000,RetailNet,Out of Stock,5.0,2023-02-09
+10491,Mobile Phone,Gadgets,OnePlus,24999.0,20.0,1.0,1000,RetailNet,Out of Stock,1.0,2023-04-11
+10492,Bluetooth Speaker,Electronics ,Apple,14999.0,15.0,,50,Appario,In stock,3.0,2023-04-21
+10493,Smart Watch,electronics,Apple,14999.0,10.0,1.0,1000,Cloudtail ,In stock,3.0,2023-11-17
+10494,Mobile Phone,Electronics,OnePlus,24999.0,,5.0,1000,Cloudtail,In stock,,2023-09-06
+10495,Bluetooth Speaker,Electronics,Boat,14999.0,,4.0,100,RetailNet,In stock,2.0,2023-07-10
+10496,Mobile Phone,Electronics ,Boat,,20.0,3.0,100,Cloudtail ,In Stock,3.0,2023-07-01
+10497,Headphones,electronics,Apple,9999.0,10.0,,50,RetailNet,In stock,2.0,2023-12-01
+10498,Mobile Phone,Gadgets,OnePlus,,15.0,3.0,10,Cloudtail ,Out of Stock,3.0,2023-07-28
+10499,Mobile Phone,electronics,OnePlus,,10.0,3.0,50,Cloudtail ,out of stock,,2023-01-22
+10500,Mobile Phone,Electronics ,Mi,14999.0,5.0,1.0,50,Appario,In stock,5.0,2023-06-15
+10274,Smart Watch,Electronics,Samsung,14999.0,20.0,3.0,10,Cloudtail ,In Stock,1.0,2023-04-04
+10035,Headphones,Gadgets,OnePlus,24999.0,10.0,3.0,50,Appario,Out of Stock,1.0,2023-11-18
+10052,Smart Watch,Electronics,OnePlus,14999.0,,4.0,500,Cloudtail ,In stock,1.0,2023-04-26
+10457,Bluetooth Speaker,electronics,Boat,24999.0,,,1000,Cloudtail ,Out of Stock,3.0,2023-11-07
+10432,Mobile Phone,Gadgets,Samsung,14999.0,10.0,2.0,50,RetailNet,out of stock,3.0,2023-04-23
+10425,Headphones,Electronics ,Apple,24999.0,5.0,,10,RetailNet,Out of Stock,1.0,2023-09-10
+10328,Bluetooth Speaker,Electronics ,OnePlus,14999.0,20.0,5.0,1000,RetailNet,Out of Stock,2.0,2023-07-19
+10464,Laptop,Gadgets,Mi,,15.0,3.0,100,Cloudtail,In Stock,1.0,2023-03-14
+10347,Headphones,Electronics,Mi,,10.0,5.0,500,Cloudtail ,Out of Stock,3.0,2023-04-29
+10307,Mobile Phone,Electronics,OnePlus,14999.0,,1.0,500,Cloudtail ,In Stock,2.0,2023-06-04
+10462,Laptop,electronics,Boat,24999.0,15.0,4.0,10,RetailNet,Out of Stock,2.0,2023-12-15
+10478,Mobile Phone,electronics,Apple,14999.0,10.0,4.0,10,Cloudtail ,In stock,2.0,2023-04-04
+10053,Smart Watch,electronics,Mi,9999.0,15.0,5.0,500,Cloudtail ,In Stock,2.0,2023-05-24
+10001,Smart Watch,Electronics ,Apple,,5.0,2.0,500,Cloudtail ,Out of Stock,1.0,2023-05-13
+10304,Bluetooth Speaker,Electronics ,Samsung,14999.0,5.0,5.0,500,Cloudtail ,Out of Stock,1.0,2023-05-20
+10456,Laptop,electronics,Apple,,5.0,4.0,50,Appario,Out of Stock,2.0,2023-06-30
+10123,Bluetooth Speaker,Electronics,Mi,24999.0,5.0,5.0,500,Appario,Out of Stock,2.0,2023-03-27
+10334,Bluetooth Speaker,Electronics ,Samsung,19999.0,,2.0,1000,Cloudtail,out of stock,,2023-05-29
+10455,Smart Watch,Gadgets,Boat,19999.0,15.0,1.0,50,Cloudtail ,out of stock,3.0,2023-08-25
+10200,Smart Watch,Electronics,Apple,14999.0,20.0,,10,Appario,In stock,,2023-11-29
